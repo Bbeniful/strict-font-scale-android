@@ -1,6 +1,6 @@
 # strict-font-scale-android
 
-##Usage
+## Usage
 
 Use it in any activity.
 
