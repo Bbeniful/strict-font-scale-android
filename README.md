@@ -9,4 +9,5 @@ For example if you are using NavigationDrawer, you have one main activity (MainA
  override fun attachBaseContext(newBase: Context) {
         super.attachBaseContext(newBase)
         StrictFontSizeHelper.setStrictScaleFontSize(this, newBase)
-    }```
+    }
+    ```
